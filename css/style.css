@@ -2,8 +2,8 @@
     IMPORT FONTS
 -------------------------------------------------------------------*/
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
-@import url('https://fonts.googleapis.com/css?family=Engagement');
+/* @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800'); */
+/* @import url('https://fonts.googleapis.com/css?family=Engagement'); */
 
 /*------------------------------------------------------------------
     IMPORT FILES
@@ -206,7 +206,7 @@ button:focus{
 
 .pulse h3{
 	color: #ffffff;
-	font-family: 'Engagement', cursive;
+	font-family: 'Brush Script MT', cursive;
 	font-size: 38px;
 }
 
@@ -418,7 +418,7 @@ button:focus{
 
 .lbox-details h1{
 	font-size: 54px;
-	font-family: 'Engagement', cursive;
+	font-family: 'Brush Script MT', cursive;
 	color: #ffffff;
 	position: relative;
 	z-index: 3;
@@ -439,7 +439,7 @@ button:focus{
 .lbox-details p strong{
 	color: #881228;
 	font-size: 40px;
-	font-family: 'Engagement', cursive;
+	font-family: 'Brush Script MT', cursive;
 }
 .lbox-details a.btn{
 	background: #63c7bd;
@@ -482,7 +482,7 @@ button:focus{
 }
 
 .countdown #timer h3{
-	font-family: 'Engagement', cursive;
+	font-family: 'Brush Script MT', cursive;
 	font-size: 38px;
 	color: #ffffff;
 	font-weight: normal;
@@ -562,7 +562,7 @@ button:focus{
 }
 .title-box h2{
 	font-size: 60px;
-	font-family: 'Engagement', cursive;
+	font-family: 'Brush Script MT', cursive;
 	color: #222222;
 }
 .title-box h2 span{
@@ -571,7 +571,7 @@ button:focus{
 }
 .about-main-info h2{
 	font-size: 40px;
-	font-family: 'Engagement', cursive;
+	font-family: countdown main-time clearfix;
 }
 .about-main-info h2 span{
 	color: #881228;
@@ -695,7 +695,7 @@ button:focus{
 }
 
 .display-font{
-	font-family: 'Engagement', cursive;
+	font-family: 'Brush Script MT', cursive;
 	font-size: 30px;
 	color: #222222;
 }
@@ -780,7 +780,7 @@ button:focus{
 }
 
 .family-info h4{
-	font-family: 'Engagement', cursive;
+	font-family: 'Brush Script MT', cursive;
 	font-size: 24px;
 	color: #ffffff;
 }
